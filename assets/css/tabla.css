@@ -1,0 +1,26 @@
+.flex{
+    display: flex;
+   
+
+}
+.h2{
+    margin-left: 50px;
+}
+
+.content-table{
+    width: 30%;
+}
+
+table,
+th,
+td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+th{
+    text-align: left;
+}
+
+.ocultarBtnSuscribirse{
+    display: none;
+}

@@ -1,0 +1,10 @@
+mediante un usuario suscribirme a una cryptomoneda
+ver variaciones de precio
+agregar todas la crypto que desee
+en el caso que exista una variacion en un periodo de tiempo, el usuario deberia
+resivir notificaciones de estas variaciones
+
+patron singlenton
+patron observador
+
+documentfragment
